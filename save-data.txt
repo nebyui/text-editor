@@ -1,0 +1,4 @@
+xp_level: 0
+current_room: 0
+current_health: 1
+kill_count: 0
