@@ -29,4 +29,4 @@ Used ChatGPT for learning, debugging, etc
 - Implementing a way to save / load a theoretically inventory. 
 - A simple text based console game could be made to encapsulate this program. Currently the user just inputs the given game triggers to change the values to be stored into the save file. 
 - Variable names could be changed to be more clear of what their purpose is.
-- The program is not entirely foolproof; if the player modifies the value names in the .txt file, the program will not automatically fix that if the user loads that same .txt file. However, it does modify any additional contents that the .txt file may have and only targets and changes specific values
+- The program is not entirely foolproof; if the player modifies the value names in the .txt file, the program will not automatically fix that if the user loads that same .txt file. However, it does not remove any additional contents that the .txt file may have and only targets and changes specific values
