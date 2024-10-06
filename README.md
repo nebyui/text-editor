@@ -21,8 +21,6 @@ Used ChatGPT for learning, debugging, etc
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Learn C++](https://www.learncpp.com)
 - [ChatGPT](https://chatgpt.com)
 
