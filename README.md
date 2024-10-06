@@ -6,9 +6,10 @@ I chose to learn C++ because Godot game engine supports C++ scripts, so learning
 
 This program is a simple text editor that is designed to save and load a player's theoretical progress and statistics from a theoretical game. Of course, actual game saving systems are significantly more complex, but it was a good learning experience to see how C++ can modify files and what contexts it could be used for.
 
-[Short Demo Video](https://youtu.be/aX4Zvd1qiHk) - (7 min, rushed)
 
 [Long Demo Video](https://www.youtube.com/watch?v=X37GxEtWCbo&list=PLJx3PzGWRoK3ueQXtrhhnRYqgVRWN_xwl&index=1&t=0s) - (25 min, complete)
+
+[Short Demo Video](https://youtu.be/aX4Zvd1qiHk) - (7 min, rushed)
 
 # Development Environment
 
