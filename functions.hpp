@@ -1,3 +1,5 @@
+// To keep the program simpler to follow, all the functions are initialized here so they don't have to be declared before the main() function
+
 #ifndef MAIN_FUNCTIONS_HPP
 #define MAIN_FUNCTIONS_HPP
 
