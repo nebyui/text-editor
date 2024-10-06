@@ -8,7 +8,7 @@ This program is a simple text editor that is designed to save and load a player'
 
 [Short Demo Video](https://youtu.be/aX4Zvd1qiHk) - (7 min, rushed)
 
-[Long Demo Video](https://youtube.com/playlist?list=PLJx3PzGWRoK3ueQXtrhhnRYqgVRWN_xwl&si=q9rbP5Jr4CZTh55P) - (25 min, complete)
+[Long Demo Video](www.youtube.com/watch?v=X37GxEtWCbo&list=PLJx3PzGWRoK3ueQXtrhhnRYqgVRWN_xwl) - (25 min, complete)
 
 # Development Environment
 
