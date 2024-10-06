@@ -188,7 +188,7 @@ void takeDamage(map<string, int> &values_map) // Subtracts 1 from health value
     }
     else // If health reaches 0, it does not subtract health more
     {
-        cout << "0 HP - You are dead" << endl;
+        cout << values_map["current_health"] << " HP - You are dead" << endl;
     }
 }
 

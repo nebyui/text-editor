@@ -1,4 +1,0 @@
-xp_level: 3
-current_room: 6
-current_health: 7
-kill_count: 6
