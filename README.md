@@ -2,7 +2,7 @@
 
 This purpose of this project was to become familiar with C++ and see how it could apply to my seperate video game project. 
 
-I chose to learn C++ because Godot game engine supports C++ scripts, so learning this programmin language will be helpful with seperate game projects. Additionally, C++ is a very commonly used and versetile language. 
+I chose to learn C++ because Godot game engine supports C++ scripts, so learning this programming language will be helpful with seperate game projects. Additionally, C++ is a very commonly used and versetile language. 
 
 This program is a simple text editor that is designed to save and load a player's theoretical progress and statistics from a theoretical game. Of course, actual game saving systems are significantly more complex, but it was a good learning experience to see how C++ can modify files and what contexts it could be used for.
 
